@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Made by Sulaimanov" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/30yDbd5"><img title="Made by Sulaimanov" src=""></a>
 </p>
 <p align="center">
 <a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ighack-green.svg"></a>
@@ -100,8 +100,6 @@ __EXIT__ :
 
 ## WATCH VIDEO [Termux]
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
-
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
@@ -116,10 +114,6 @@ __EXIT__ :
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
-
-<p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
-</p>
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
